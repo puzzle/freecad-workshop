@@ -6,6 +6,16 @@
 
 ---
 
+## Presentation
+
+https://puzzle.github.io/freecad-workshop
+
+## Code
+
+https://github.com/puzzle/freecad-workshop
+
+---
+
 ## Agenda
 
 1. What is FreeCAD?
