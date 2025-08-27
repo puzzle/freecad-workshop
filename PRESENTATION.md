@@ -14,6 +14,14 @@ https://puzzle.github.io/freecad-workshop
 
 https://github.com/puzzle/freecad-workshop
 
+## PDF
+
+https://puzzle.github.io/freecad-workshop/PRESENTATION.pdf
+
+## Markdown
+
+https://puzzle.github.io/freecad-workshop/PRESENTATION.md
+
 ---
 
 ## Agenda
@@ -27,4 +35,46 @@ https://github.com/puzzle/freecad-workshop
 
 ---
 
-## What is FreeCAD
+# What is FreeCAD
+
+---
+
+## What is CAD?
+
+Computer-Assisted Design
+
+🔑 Key Aspects of CAD:
+
+- Parametric modeling: Define shapes with dimensions and constraints that can be updated later.
+- 2D & 3D design: Supports both technical drawings (2D) and detailed 3D models.
+- Accuracy: CAD models are mathematically precise, unlike hand sketches or artistic models.
+- Documentation: CAD can generate technical drawings, assembly instructions, or manufacturing files.
+
+---
+
+## The dad-joke analogy
+
+CAD: Excel for 3D-shapes
+
+Blender: Painting or Sculpting with clay
+
+Photoshop: Painting on canvas
+
+---
+
+## FEM - Finite Element Method
+
+Simulate physical behavour of parts and structure under loads, heat, vibrations.
+
+**FreeCAD has support for FEM.**
+
+---
+
+## CAM - Compuer-Aided Manufacturing
+
+Generate machine instructions for manufacturing (CNC machines, G-code)
+
+While FreeCAD has support, it is still recommended to use slicer software for 3D-printing.
+
+---
+
