@@ -90,3 +90,81 @@ While FreeCAD has support, it is still recommended to use slicer software for 3D
 | **Community & Support** | Strong, open-source community                            | Large, official + community                          | Large professional support              | Growing community                     | Very large open-source community           |
 
 ---
+
+# What is parametric CAD?
+
+---
+
+## Definition
+
+Parametric CAD is about **rules & dimensions & relationships** that make your design adaptable and editable.
+
+## What is it not?
+
+- Not just drawing lines and shapes (like in Photoshop or Illustrator).
+- Not digital sculpting where you push/pull clay (like in Blender).
+- Not static models where every change means starting over.
+- Not “locked” — you don’t have to redraw everything if you change a size.
+
+---
+
+## Examples of parametric modeling
+
+### Specifying dimensions (parameters)
+
+- The rectangle has width 50mm and height 40mm.
+- The angle between line A and B is 30°
+- The distance between the two lines is 60mm
+
+### Specifying relationships (constraints)
+
+- Line A must always be perpendicular to line B.
+- Line C must always be the same length as Line D.
+- Point E is point-symmetrical to Point F around Point G.
+
+---
+
+## Fully constrained
+
+A fully constrained sketch means:
+
+The geometry has exactly enough parameters and constraints
+to define a geometry without having any degrees of freedom (DoFs).
+
+FreeCAD checks your geometry for DoFs.
+
+---
+
+## Over constrained
+
+There are redundant constraints in your geometry.
+
+---
+
+# Simple FreeCAD workflow for beginners
+
+---
+
+## Simple FreeCAD workflow
+
+1. Create a sketch geometry
+2. Make the sketch geometry fully constrained
+3. Apply operators to your sketch
+
+---
+
+## DEMO
+
+Simple FreeCAD workflow
+
+---
+
+# FreeCAD introduction
+
+---
+
+## FreeCAD installation
+
+---
+
+## FreeCAD UI
