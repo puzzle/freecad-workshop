@@ -26,12 +26,23 @@ https://puzzle.github.io/freecad-workshop/PRESENTATION.md
 
 ## Agenda
 
+### Part 1
+
 1. What is FreeCAD?
 2. Compared to other 3D design applications
 3. What is parametric CAD?
 4. Simple FreeCAD workflow
-5. Basic designs with FreeCAD: Sketches and operators
-7. FreeCAD Installation & Hands-On: Design a simple cube
+5. Most important FreeCAD settings to get started
+6. Learn as we go
+   - Install FreeCAD
+   - Use the Part Workbench to design a cube
+
+---
+
+### Part 2
+
+1. FreeCAD Sketching Basics
+2. FreeCAD 
 
 ---
 
@@ -159,12 +170,56 @@ Simple FreeCAD workflow
 
 ---
 
-# FreeCAD introduction
+# FreeCAD getting started - Learn as we go
 
 ---
 
-## FreeCAD installation
+## Install FreeCAD
+
+### PopOS
+
+`sudo apt install freecad`
+
+### Arch
+
+`yay install freecad`
+
+### snap
+
+`snap install freecad`
 
 ---
 
-## FreeCAD UI
+## Settings
+
+### Units & Navigation style
+
+Just use bottom right dropdown
+
+### Available Workbenches
+
+- Disable unneeded Workbenches, we focus today on:
+  - Part Design
+  - Sketch
+  - Draft
+- Workbench selector type: TabBar vs Dropdown
+
+---
+
+## Side-note notable workbenches
+
+### Reverse Engineering
+
+Reverse engineer `.STL` models to FreeCAD.
+
+### Assembly
+
+Assemble multiple parts to visualize mechanics / movement.
+
+### Spreadsheet
+
+Make a spreadsheet with editable data to edit your parts.
+
+---
+
+## Make a sketch of a rectangle
