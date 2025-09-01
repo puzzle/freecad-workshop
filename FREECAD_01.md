@@ -41,8 +41,16 @@ https://puzzle.github.io/freecad-workshop/PRESENTATION.md
 
 ### Part 2
 
-1. FreeCAD Sketching Basics
-2. FreeCAD 
+1. Learn about operators
+
+- Exercise 1
+- Exercise 2
+
+2. Tips and tricks
+
+- Text
+- Shapes
+
 
 ---
 
@@ -222,4 +230,55 @@ Make a spreadsheet with editable data to edit your parts.
 
 ---
 
-## Make a sketch of a rectangle
+# Design a simple cube with FreeCAD
+
+The parametric way
+
+---
+
+## Create a parametric part
+
+---
+
+## Create a sketch
+
+![sketch](create_sketch.png)
+
+---
+
+## Select the XY plane
+
+![plane](xy_plane.png)
+
+---
+
+## Create a rectangle
+
+Dimensions: 20mm x 20mm
+Make the rectagle using **Center, width, height**
+
+![rect](sketcher1.png)
+
+**And then close the sketch**
+
+---
+
+## Use your first operation: Pad
+
+Select the sketch and then click on the **Pad** operator.
+
+![pad](pad.png)
+
+---
+
+## Edit the Pad parameters
+
+Set the *length* to **20mm**
+
+![pad](padparams.png)
+
+Congrats! You made your first parametric part!
+
+---
+
+# End of first part! Let's have a break.
