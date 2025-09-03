@@ -201,6 +201,4 @@ Try to create something with what we've learned!
 
 ![table](table.png)
 
----
-
-# DEMO - 2D Shapes and Text
+# Have a break

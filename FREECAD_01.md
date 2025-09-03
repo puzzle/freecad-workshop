@@ -26,31 +26,32 @@ https://github.com/puzzle/freecad-workshop
 
 ### Part 1
 
-1. What is FreeCAD?
+1. What is **FreeCAD**?
 2. Compared to other 3D design applications
-3. What is parametric CAD?
-4. Simple FreeCAD workflow
-5. Most important FreeCAD settings to get started
+3. What is **parametric CAD**?
+4. Simple **FreeCAD workflow**
+5. Most important **FreeCAD settings** to get started
 6. Learn as we go
    - Install FreeCAD
-   - Use the Part Workbench to design a cube
+   - Use the Part Workbench to design a parametric cube
 
 ---
 
 ### Part 2
 
-1. Sketching
+1. 2D Sketching
 2. 3D oeprators
 3. Creative time!
-4. Tips and tricks
-
-- Text
-- Shapes
-
 
 ---
 
-# What is FreeCAD
+### Part 3
+
+Workflow from FreeCAD to 3D Printing.
+
+---
+
+# What is FreeCAD?
 
 ---
 
@@ -60,20 +61,20 @@ Computer-Assisted Design
 
 🔑 Key Aspects of CAD:
 
-- Parametric modeling: Define shapes with dimensions and constraints that can be updated later.
-- 2D & 3D design: Supports both technical drawings (2D) and detailed 3D models.
-- Accuracy: CAD models are mathematically precise, unlike hand sketches or artistic models.
-- Documentation: CAD can generate technical drawings, assembly instructions, or manufacturing files.
+- **Parametric modeling**: Define shapes with dimensions and constraints that can be updated later.
+- **2D & 3D design**: Supports both technical drawings (2D) and detailed 3D models.
+- **Accuracy**: CAD models are mathematically precise, unlike hand sketches or artistic models.
+- **Documentation**: CAD can generate technical drawings, assembly instructions, or manufacturing files.
 
 ---
 
 ## The dad-joke analogy
 
-CAD: Excel for 3D-shapes
+**Photoshop**: Painting on canvas
 
-Blender: Painting or Sculpting with clay
+**Blender**: Painting or Sculpting with clay
 
-Photoshop: Painting on canvas
+**CAD**: Excel for 3D-shapes
 
 ---
 
@@ -90,6 +91,10 @@ Simulate physical behavour of parts and structure under loads, heat, vibrations.
 Generate machine instructions for manufacturing (CNC machines, G-code)
 
 While FreeCAD has support, it is still recommended to use slicer software for 3D-printing.
+
+- Cura
+- PrusaSlicer
+- SuperSlicer
 
 ---
 
@@ -114,12 +119,7 @@ While FreeCAD has support, it is still recommended to use slicer software for 3D
 
 Parametric CAD is about **rules & dimensions & relationships** that make your design adaptable and editable.
 
-## What is it not?
-
-- Not just drawing lines and shapes (like in Photoshop or Illustrator).
-- Not digital sculpting where you push/pull clay (like in Blender).
-- Not static models where every change means starting over.
-- Not “locked” — you don’t have to redraw everything if you change a size.
+![sketch example](sketch_example.png)
 
 ---
 
