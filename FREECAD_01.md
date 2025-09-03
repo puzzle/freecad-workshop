@@ -8,7 +8,9 @@
 
 ## Presentation
 
-https://puzzle.github.io/freecad-workshop
+https://puzzle.github.io/freecad-workshop/?f=FREECAD_01.md
+https://puzzle.github.io/freecad-workshop/?f=FREECAD_02.md
+https://puzzle.github.io/freecad-workshop/?f=FREECAD_03.md
 
 ## Code
 
