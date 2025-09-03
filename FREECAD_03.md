@@ -24,3 +24,13 @@
    - Converts your 3D mesh to G-code
 
 ---
+
+# Bonus content
+
+---
+
+## Possible
+
+- Text and fonts
+- Reverse engineering with picture
+- Curves Addon
