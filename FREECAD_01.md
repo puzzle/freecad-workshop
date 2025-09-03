@@ -41,12 +41,10 @@ https://puzzle.github.io/freecad-workshop/PRESENTATION.md
 
 ### Part 2
 
-1. Learn about operators
-
-- Exercise 1
-- Exercise 2
-
-2. Tips and tricks
+1. Sketching
+2. 3D oeprators
+3. Creative time!
+4. Tips and tricks
 
 - Text
 - Shapes

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.371018mm"
+   height="7.5453868mm"
+   viewBox="0 0 10.371018 7.5453867"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="puzzle.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.227385"
+     inkscape:cx="16.745562"
+     inkscape:cy="10.962106"
+     inkscape:window-width="2226"
+     inkscape:window-height="1179"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-67.491635,-50.068091)">
+    <path
+       d="m 77.840809,50.874806 c -0.26723,0.797454 -1.12633,3.190875 -1.12633,3.190875 -0.2876,0.780521 -1.96876,0.773377 -4.25212,0.780521 0,0 1.47452,-0.208227 1.9013,-1.031875 0.42704,-0.823913 0.92869,-2.491582 0.92869,-2.491582 -2.27119,0 -2.47386,0.795073 -2.47386,0.795073 0,0 -1.43536,4.014787 -1.94733,5.49566 -3.97801,0 -3.34222,-1.964531 -3.34222,-1.964531 l 1.98967,-5.580856 h 4.03119 l -0.26908,0.80354 c 0,0 0.32808,-0.80354 2.55005,-0.80354 0,0 2.27754,0.009 2.01004,0.807244 z"
+       fill="currentColor"
+       id="path1"
+       style="stroke-width:0.264583"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:label="path1" />
+  </g>
+</svg>
