@@ -36,9 +36,9 @@ jobs:
       - name: Install Presentomatic
         run: npm i presentomatic
       - name: Build static HTML from the directory example-presentation (replace this with the path to your presentation directory)
-        run: npx presentomatic build .
+        run: npx presentomatic build . -o dist
       - name: Generate PDF
-        run: npx presentomatic pdf . -o dist/PRESENTATION.pdf
+        run: npx presentomatic pdf . -o dist
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

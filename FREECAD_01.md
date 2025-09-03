@@ -15,12 +15,10 @@ https://puzzle.github.io/freecad-workshop
 https://github.com/puzzle/freecad-workshop
 
 ## PDF
+- [Part 01](https://puzzle.github.io/freecad-workshop/FREECAD_01.pdf)
+- [Part 02](https://puzzle.github.io/freecad-workshop/FREECAD_02.pdf)
+- [Part 03](https://puzzle.github.io/freecad-workshop/FREECAD_03.pdf)
 
-https://puzzle.github.io/freecad-workshop/PRESENTATION.pdf
-
-## Markdown
-
-https://puzzle.github.io/freecad-workshop/PRESENTATION.md
 
 ---
 
