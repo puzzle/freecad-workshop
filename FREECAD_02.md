@@ -53,7 +53,7 @@ Example: *Drill a hole, 10mm from the edge of the box.*
 
 ---
 
-# 3D Operators
+# Common 3D Operators
 
 ---
 
@@ -201,4 +201,9 @@ Try to create something with what we've learned!
 
 ![table](table.png)
 
-# Have a break
+---
+
+# Well done! Have a break
+
+
+![alt text](haveabreak.png)

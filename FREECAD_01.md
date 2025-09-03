@@ -150,20 +150,16 @@ FreeCAD checks your geometry for DoFs.
 
 ---
 
-## Over constrained
-
-There are redundant constraints in your geometry.
-
----
-
 # Simple FreeCAD workflow for beginners
 
 ---
 
+<!-- {"animate-li": true} -->
+
 ## Simple FreeCAD workflow
 
 1. Create a sketch geometry
-2. Make the sketch geometry fully constrained
+2. (optional but recommended) Make the sketch geometry fully constrained
 3. Apply operators to your sketch
 
 ---
@@ -174,7 +170,7 @@ Simple FreeCAD workflow
 
 ---
 
-# FreeCAD getting started - Learn as we go
+# FreeCAD getting started
 
 ---
 
@@ -182,15 +178,27 @@ Simple FreeCAD workflow
 
 ### PopOS
 
-`sudo apt install freecad`
+```
+sudo apt install freecad
+```
 
 ### Arch
 
-`yay install freecad`
+```
+yay install freecad
+```
+
 
 ### snap
 
-`snap install freecad`
+```
+snap install freecad
+```
+
+### flatpak
+```
+flatpak install org.freecad.FreeCAD
+```
 
 ---
 
@@ -200,11 +208,19 @@ Simple FreeCAD workflow
 
 Just use bottom right dropdown
 
+![controls](controls.png)
+
+---
+
 ### Available Workbenches
+
+*Edit --> Preferences --> Available Workbenches*
+
+![prefs](preferences.png)
 
 - Disable unneeded Workbenches, we focus today on:
   - Part Design
-  - Sketch
+  - Sketcher
   - Draft
 - Workbench selector type: TabBar vs Dropdown
 
@@ -234,9 +250,13 @@ The parametric way
 
 ## Create a parametric part
 
+![parametric](newfile.png)
+
 ---
 
 ## Create a sketch
+
+See tasks
 
 ![sketch](create_sketch.png)
 
@@ -250,7 +270,7 @@ The parametric way
 
 ## Create a rectangle
 
-Dimensions: 20mm x 20mm
+Dimensions: **20mm x 20mm**
 Make the rectagle using **Center, width, height**
 
 ![rect](sketcher1.png)

@@ -7,10 +7,24 @@
 
 ## 3D Printing Workflow
 
-1. Select at least one body
-2. Export to .STL
-3. Load into your slicer application
-4. Convert to G-Code and send it to your printer
+### Select at least one body
+
+![select](select.png)
+
+---
+
+### Export to STL or 3MF
+
+![export](export.png)
+
+
+---
+
+### Load into your slicer application
+
+Example using PrusaSlicer
+
+![prusa](prusa_table.png)
 
 ---
 
@@ -25,11 +39,13 @@
 
 ---
 
-# Bonus content
+## Thanks!
+
+![clap](difficult_clap.png)
 
 ---
 
-## Possible
+# Bonus content (improvised)
 
 - Text and fonts
 - Reverse engineering with picture
